@@ -1,0 +1,4 @@
+function setup(){
+	setDeviceProperty(getName(), 'IR', 900);
+}
+//script diatas supaya saat api didekatkan sensor/monitor dapat mendeteksi adanya api tersebut
