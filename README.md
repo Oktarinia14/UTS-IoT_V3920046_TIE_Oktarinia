@@ -1,2 +1,3 @@
-# UTS-IoT_V3920046_TIE_Oktarinia
+# Penjelasan Struktur
+
 Ujian Tengah Semester Internet Of Things
